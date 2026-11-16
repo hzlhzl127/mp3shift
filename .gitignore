@@ -7,3 +7,4 @@ ffmpeg/
 *.mp3
 *.mp4
 *.zip
+_release/
